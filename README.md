@@ -2,7 +2,7 @@
 
 ## Workshops🔥
 
- Frontend Mentor - NFT Preview Card Component Proposta dos professores Roberto Dias e Ricardo Dias [(double dev)](https://www.instagram.com/devemdobro/) professores do curso DevQuest. objetivo criar página de destino do NFT Card Component.
+ Frontend Mentor - NFT Preview Card Component Proposta dos professores Roberto Dias e Ricardo Dias [(double dev)](https://www.instagram.com/devemdobro/) professores do curso DevQuest. Objetivo criar página de destino do NFT Card Component.
 
 ## Projeto NFT Preview Card Component Desktop 
 
@@ -24,7 +24,7 @@
 - CSS Flexbox 
 - CSS Media Queries
 - CSS Variáveis 
-- CSS Fonts 
+- CSS Fontes 
 - CSS Transição 
 - CSS Opacidade 
 ````
@@ -35,5 +35,5 @@ As maiores dificuldades foram ajustar o tamanho da página, centralizar os eleme
 ````
 ### :bookmark_tabs: Aprendizado
 ````
-Aprendi a análise o projeto antes de começar a desenvolvê-la, posicionando elementos no cantainer, definir a altura do Viewport e importância respeitar o efeito cascata.
+Aprendi a análise o projeto antes de começar a desenvolvê-la, posicionando elementos no container, definir a altura do Viewport e importância respeitar o efeito cascata.
 ````
